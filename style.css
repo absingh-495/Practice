@@ -23,6 +23,6 @@ html, body{
   padding-bottom:5px ; 
   max-width: 500px; /* adjust this as needed */
   white-space:nowrap ;
-  text-overflow: ellipsis;
+  /* text-overflow: ellipsis; */
 
 }
