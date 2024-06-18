@@ -1,4 +1,4 @@
-*{
+/* *{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -6,17 +6,17 @@
 html, body{
   width: 100%;
   height: 100%;
-}
+} */
 
-.parent{
+/* .parent{
   display: flex;
-  align-items:center; /* this give direction to y axis only*/
-  justify-content: space-around; /* this give direction to x axis only*/
+  align-items:center; /  this give direction to y axis only 
+  justify-content: space-around; this give direction to x axis only 
   width: 100%;
   height: 100%;
   background-color: rgb(127, 224, 219);
-}
-
+} */
+/* 
 #child1{
   width: 200px;
   height: 200px;
@@ -36,4 +36,5 @@ html, body{
   width: 200px;
   height: 200px;
   background-color: navajowhite;
-}
+} */
+
