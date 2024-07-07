@@ -21,4 +21,10 @@
 // const faltuMessage = `     hi, i'am tikku ji     `
 // const trimedMessage = faltuMessage.trim()
 // faltuMessage.trim() 
-// So, basically it trims out extra spaces
+// // So, basically it trims out extra spaces
+// faltuMessage.trimStart()
+// "hi, i'am tikku ji     "
+// faltuMessage.trimEnd()
+// "       hi, i'am tikku ji"
+
+
