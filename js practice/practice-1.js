@@ -18,7 +18,7 @@
 // const message = 'hello! comostas'
 // const capitalMessage = message.toUpperCase()
 
-const faltuMessage = `     hi, i'am tikku ji     `
-const trimedMessage = faltuMessage.trim()
+// const faltuMessage = `     hi, i'am tikku ji     `
+// const trimedMessage = faltuMessage.trim()
 // faltuMessage.trim() 
 // So, basically it trims out extra spaces
