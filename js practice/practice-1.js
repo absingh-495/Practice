@@ -47,14 +47,25 @@ console.log(finalMessage)
 // "hello i'm abhishek singh"
 
 // it replaces the string and even it targets the the singh characters as well s,a etc.
-const replacedMessage = finalMessage.replace('hi','hello')
+// const replacedMessage = finalMessage.replace('hi','hello')
 
 // the result
 
 // replacedMessage
 // "hello i'm abhishek singh"
 
-// .concat it adds two or more strings like
+// .concat method it adds two or more strings like
 // Message.concat(finalMessage)
+
+// padstart
+
+const lastFourDigits = '7856'
+ 
+// result
+
+// lastFourDigits.padStart(16,'*')
+// '************7856'
+// lastFourDigits.padStart(8,'*')
+// '****7856'
 
 
