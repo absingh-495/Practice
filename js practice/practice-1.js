@@ -27,4 +27,11 @@
 // faltuMessage.trimEnd()
 // "       hi, i'am tikku ji"
 
+// methods ( with arguments)
+ 
+// finalMessage.includes("abhishek")
+// it checks wheather any string is contained usingh include("i'm")
+const finalMessage = "hi i'm abhishek singh"
+console.log(finalMessage)
+
 
