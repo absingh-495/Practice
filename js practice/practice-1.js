@@ -57,7 +57,7 @@ console.log(finalMessage)
 // .concat method it adds two or more strings like
 // Message.concat(finalMessage)
 
-// padstart
+// padstart(to add in the starting) and padend (to add in the end)
 
 const lastFourDigits = '7856'
  
