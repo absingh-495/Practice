@@ -54,4 +54,7 @@ const replacedMessage = finalMessage.replace('hi','hello')
 // replacedMessage
 // "hello i'm abhishek singh"
 
+// .concat it adds two or more strings like
+// Message.concat(finalMessage)
+
 
