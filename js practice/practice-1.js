@@ -39,5 +39,6 @@ console.log(finalMessage)
 // indexOff()
 // finalMessage.indexOf("i'm")
 // 3
+// in case if that string doesn't exist it'll show -1
 
 
