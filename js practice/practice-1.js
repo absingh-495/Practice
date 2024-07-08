@@ -35,4 +35,9 @@
 const finalMessage = "hi i'm abhishek singh"
 console.log(finalMessage)
 
+// length thats checks number of strings (including space)
+// indexOff()
+// finalMessage.indexOf("i'm")
+// 3
+
 
