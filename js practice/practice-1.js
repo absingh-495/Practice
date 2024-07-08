@@ -41,4 +41,17 @@ console.log(finalMessage)
 // 3
 // in case if that string doesn't exist it'll show -1
 
+// replace and replaceall
+
+// finalMessage.replace("hi","hello")
+// "hello i'm abhishek singh"
+
+// it replaces the string and even it targets the the singh characters as well s,a etc.
+const replacedMessage = finalMessage.replace('hi','hello')
+
+// the result
+
+// replacedMessage
+// "hello i'm abhishek singh"
+
 
