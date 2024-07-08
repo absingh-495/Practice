@@ -30,7 +30,8 @@
 // methods ( with arguments)
  
 // finalMessage.includes("abhishek")
-// it checks wheather any string is contained usingh include("i'm")
+// it checks wheather any string is contained using
+// include("i'm")
 const finalMessage = "hi i'm abhishek singh"
 console.log(finalMessage)
 
