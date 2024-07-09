@@ -85,3 +85,17 @@ const message = ("hello my name is abhishek singh")
 // (31) ['h', 'e', 'l', 'l', 'o', ' ', 'm', 'y', ' ', 'n', 'a', 'm', 'e', ' ', 'i', 's', ' ', 'a', 'b', 'h', 'i', 's', 'h', 'e', 'k', ' ', 's', 'i', 'n', 'g', 'h']
 // length of array 31 
 // given string into an array of substring !
+
+// template literals
+
+const concatenatedMessage = `my last four digit account number is `.concat(7856)
+// .concat method used here to add string
+
+// now we will use template literals 
+const lastFourDigit = '7856'
+const templateString = `hello my last four digit account number is ${lastFourDigit}`
+// result 
+// 'hello my last four digit account number is 7856'
+
+// here we have used template literal , string method
+
