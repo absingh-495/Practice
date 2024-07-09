@@ -75,7 +75,7 @@
 // Split()
 // Split is a function that split the given string into an array of substrings. The split method doesn't change the original string array and will return the new array.
 
-const message = ("hello my name is abhishek singh") 
+// const message = ("hello my name is abhishek singh") 
 // result 
 // message.split()
 // ['hello my name is abhishek singh']
@@ -88,19 +88,19 @@ const message = ("hello my name is abhishek singh")
 
 // template literals
 
-const concatenatedMessage = `my last four digit account number is `.concat(7856)
+// const concatenatedMessage = `my last four digit account number is `.concat(7856)
 // .concat method used here to add string
 
 // now we will use template literals 
-const lastFourDigit = '7856'
-const templateString = `hello my last four digit account number is ${lastFourDigit.padEnd(16,'*')}`
+// const lastFourDigit = '7856'
+// const templateString = `hello my last four digit account number is ${lastFourDigit.padEnd(16,'*')}`
 // result 
 // 'hello my last four digit account number is 7856'
 // here we have used template literal , string method and just for sake of practice we add padstart & padEnd fun as well inside that !
 
 //  another great example of it
 
-const name = "John"; // can change name without adding or .conCat method useful in case of different names !
-const age = 30;  // can change age without adding or .conCat method useful in case of dynamic nature of age !
-const Message = `My name is ${name} and I am ${age} years old.`;
-console.log(Message); // Output: My name is John and I am 30 years old.
+// const name = "John"; // can change name without adding or .conCat method useful in case of different names !
+// const age = 30;  // can change age without adding or .conCat method useful in case of dynamic nature of age !
+// const Message = `My name is ${name} and I am ${age} years old.`;
+// console.log(Message); // Output: My name is John and I am 30 years old.
