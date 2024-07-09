@@ -69,3 +69,6 @@ console.log(finalMessage)
 // '****7856'
 
 
+// charcodeat it will give any symbol or alphabet's ascii code or number like A has 65 so on ()
+
+
