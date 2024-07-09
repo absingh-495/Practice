@@ -72,4 +72,5 @@
 
 // charcodeat it will give any symbol or alphabet's ascii code or number like A has 65 so on ()
 
-
+// Split()
+// Split is a function that split the given string into an array of substrings. The split method doesn't change the original string array and will return the new array.
