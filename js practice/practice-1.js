@@ -93,9 +93,8 @@ const concatenatedMessage = `my last four digit account number is `.concat(7856)
 
 // now we will use template literals 
 const lastFourDigit = '7856'
-const templateString = `hello my last four digit account number is ${lastFourDigit}`
+const templateString = `hello my last four digit account number is ${lastFourDigit.padStart(16,'*')}`
 // result 
 // 'hello my last four digit account number is 7856'
-
-// here we have used template literal , string method
+// here we have used template literal , string method and just for sake of practice we add padstart fun as well inside that !
 
