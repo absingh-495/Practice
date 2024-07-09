@@ -104,3 +104,13 @@
 // const age = 30;  // can change age without adding or .conCat method useful in case of dynamic nature of age !
 // const Message = `My name is ${name} and I am ${age} years old.`;
 // console.log(Message); // Output: My name is John and I am 30 years old.
+
+// another great example
+// now the value is pretty easy to play with rather than hard coded 
+
+// let bankBalance = '78900'
+// const Message = `i have ${bankBalance} in my account`
+// console.log(Message);
+
+// result
+// i have 78900 in my account
