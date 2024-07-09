@@ -32,8 +32,9 @@
 // finalMessage.includes("abhishek")
 // it checks wheather any string is contained using
 // include("i'm")
-const finalMessage = "hi i'm abhishek singh"
-console.log(finalMessage)
+
+// const finalMessage = "hi i'm abhishek singh"
+// console.log(finalMessage)
 
 // length thats checks number of strings (including space)
 // indexOff()
