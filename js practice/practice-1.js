@@ -59,7 +59,7 @@ console.log(finalMessage)
 
 // padstart(to add in the starting) and padend (to add in the end)
 
-const lastFourDigits = '7856'
+// const lastFourDigits = '7856'
  
 // result
 
