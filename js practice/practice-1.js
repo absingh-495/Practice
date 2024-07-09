@@ -74,3 +74,14 @@
 
 // Split()
 // Split is a function that split the given string into an array of substrings. The split method doesn't change the original string array and will return the new array.
+
+const message = ("hello my name is abhishek singh") 
+// result 
+// message.split()
+// ['hello my name is abhishek singh']
+
+// input message.split('')
+// output message.split('')
+// (31) ['h', 'e', 'l', 'l', 'o', ' ', 'm', 'y', ' ', 'n', 'a', 'm', 'e', ' ', 'i', 's', ' ', 'a', 'b', 'h', 'i', 's', 'h', 'e', 'k', ' ', 's', 'i', 'n', 'g', 'h']
+// length of array 31 
+// given string into an array of substring !
