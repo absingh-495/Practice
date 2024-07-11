@@ -135,3 +135,7 @@
 
 // Math.floor(-2.99)
 // result -3 degraded the value 
+
+let num = Math.ceil(2.5) 
+console.log(num)
+// result it increase the number like from 2.5 to 3
