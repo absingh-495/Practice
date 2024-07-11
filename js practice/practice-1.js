@@ -164,3 +164,6 @@
 // explanation 
 // now we will get random number from 0 to 20 integers with decimals to get rid off decimals we have used Math.floor() method
 
+// Math.floor(Math.random() * 101 ) 
+// here we want random numbers from 0 to 100
+
