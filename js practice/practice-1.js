@@ -142,3 +142,9 @@
 // let num1 = Math.ceil(4) 
 // console.log(num1)
 // result it increase the number like from 2.5 to 3 but in integer without decimal it won't iterate !
+
+// console.log (Math.round(2.4)) it make number round of like before 2.4 = 2 after 2.5 = 3
+// result 2
+// console.log (Math.round(2.5))
+// result 3
+
