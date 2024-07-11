@@ -156,3 +156,11 @@
 
 // console.log (Math.round(-2.3))
 // result -2
+
+// Math.random it gives random number from 0 to less than 1
+
+// console.log(Math.floor(Math.random()* 21))
+
+// explanation 
+// now we will get random number from 0 to 20 integers with decimals to get rid off decimals we have used Math.floor() method
+
