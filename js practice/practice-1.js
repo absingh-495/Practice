@@ -167,3 +167,6 @@
 // Math.floor(Math.random() * 101 ) 
 // here we want random numbers from 0 to 100
 
+// to get random number from 10 to 20
+// console.log(Math.floor(Math.random( ) * 10)+10)
+
