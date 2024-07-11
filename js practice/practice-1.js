@@ -136,6 +136,9 @@
 // Math.floor(-2.99)
 // result -3 degraded the value 
 
-let num = Math.ceil(2.5) 
-console.log(num)
-// result it increase the number like from 2.5 to 3
+// let num = Math.ceil(4.2) 
+// console.log(num)
+
+// let num1 = Math.ceil(4) 
+// console.log(num1)
+// result it increase the number like from 2.5 to 3 but in integer without decimal it won't iterate !
