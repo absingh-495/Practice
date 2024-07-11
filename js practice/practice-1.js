@@ -148,3 +148,10 @@
 // console.log (Math.round(2.5))
 // result 3
 
+//  in case of negative
+// console.log (Math.round(-2.6))
+// result -3
+// understand these concept through number line 
+
+// console.log (Math.round(-2.3))
+// result -2
