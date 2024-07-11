@@ -132,3 +132,6 @@
 
 // Math.floor(2.99)
 // result 2 
+
+// Math.floor(-2.99)
+// result -3 degraded the value 
