@@ -170,3 +170,10 @@
 // to get random number from 10 to 20
 // console.log(Math.floor(Math.random( ) * 10)+10)
 
+// to get random from 12 to 45 
+// let min = 12
+// let max = 45
+// console.log(Math.floor(Math.random() * (max - min + 1 )) + min);
+
+// not understood yet !
+
