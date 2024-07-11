@@ -125,3 +125,10 @@
 // exponentiation operator ** 5 ** 2 = 25 added in 2016 ecma update !
 
 
+// math object in javascript 
+
+// properties
+// method
+
+// Math.floor(2.99)
+// result 2 
