@@ -151,7 +151,8 @@
 //  in case of negative
 // console.log (Math.round(-2.6))
 // result -3
-// understand these concept through number line 
+// understand these concept through number line (link Below)
+// https://cdn1.byjus.com/wp-content/uploads/2021/02/Operations-Of-Integers-On-Number-Line-1.png
 
 // console.log (Math.round(-2.3))
 // result -2
