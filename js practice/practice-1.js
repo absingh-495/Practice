@@ -177,3 +177,11 @@
 
 // not understood yet !
 
+// getting input from user through prompt add + to take it as number not in string '9' then console it on 
+
+const width = +prompt("please enter width of rectangle")
+const height = +prompt("please enter height of rectangle")
+ console.log(`sum is: ${width * height}`)
+
+
+
