@@ -114,3 +114,14 @@
 
 // result
 // i have 78900 in my account
+
+// mathematical operators in javascript 
+
+// addition operator +
+// Substraction operator -
+// multiplication operator *
+// division operator /
+// remainder operator %
+// exponentiation operator ** 5 ** 2 = 25 added in 2016 ecma update !
+
+
