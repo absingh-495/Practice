@@ -179,6 +179,19 @@
 
 // getting input from user through prompt add + to take it as number not in string '9' then console it on 
 
+assignment
+
+// write a function in javascript to generate random number let say from min -x to max-y
+
+function getRandomNumber(min,max){
+  return Math.floor(Math.random() * (max - min + 1) + min );
+}
+ 
+let min = 12;
+let max = 45;
+let randomNumber = getRandomNumber (min , max);
+console.log(randomNumber);
+
 
 
 
