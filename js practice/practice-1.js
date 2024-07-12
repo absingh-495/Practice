@@ -179,7 +179,7 @@
 
 // getting input from user through prompt add + to take it as number not in string '9' then console it on 
 
-assignment
+// assignment
 
 // write a function in javascript to generate random number let say from min -x to max-y
 
