@@ -182,7 +182,13 @@
 
 // getting input from user through prompt add + to take it as number not in string '9' then console it on 
 
-// assignment
+
+
+let a = 100;
+const b = 1000;
+var c = 2000;
+console.log(a,b,c)
+
 
 
 
