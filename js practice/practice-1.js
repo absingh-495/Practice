@@ -187,7 +187,7 @@
 let a = 100;
 const b = 1000;
 var c = 2000;
-console.log(a,b,c)
+ 
 
 
 
