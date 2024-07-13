@@ -170,6 +170,9 @@
 // to get random number from 10 to 20
 // console.log(Math.floor(Math.random( ) * 10)+10)
 
+
+// write a function in javascript to generate random number let say from min -x to max-y
+
 // to get random from 12 to 45 
 // let min = 12
 // let max = 45
@@ -181,7 +184,6 @@
 
 // assignment
 
-// write a function in javascript to generate random number let say from min -x to max-y
 
 
 
