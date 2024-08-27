@@ -174,9 +174,9 @@
 // write a function in javascript to generate random number let say from min -x to max-y
 
 // to get random from 12 to 45 
-let min = 12
-let max = 45
-console.log(Math.floor(Math.random() * (max - min + 1 )) + min);
+// let min = 12
+// let max = 45
+// console.log(Math.floor(Math.random() * (max - min + 1 )) + min);
 
 // not understood yet !
 
