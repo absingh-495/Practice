@@ -183,6 +183,10 @@
 // getting input from user through prompt add + to take it as number not in string '9' then console it on 
 
 
+// comparison operator
+
+const userAge1 = 18
+const userAge2 = 24
 
  
  
