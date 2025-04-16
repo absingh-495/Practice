@@ -199,5 +199,8 @@ console.log(29-35+42+65);
 let firstName = 'bob'
 console.log(firstName);
 
+let years3 = 'nick'
+console.log(years3);
+
 
 
