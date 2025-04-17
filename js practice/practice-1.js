@@ -272,12 +272,27 @@
 // let const and var 
 
 // let lets you change or reassign the value in future (mutable variable)
+
 let age = 30;
 age = 35;
 console.log(age);
 
 // const (also known as constant variable) can't change the value or reassign it in future (immutable variable)
-// also we can't declare empty const variable
 
-const birthYear = 2009;
-birthYear = 2010;
+// const birthYear = 2009;
+// birthYear = 2010;
+
+// also we can't declare empty const variable
+// const job;
+
+// var is old method of defining variable prior to es6.
+
+// var job = 'programmer';
+// job = 'tutor'
+// console.log(job)
+
+// concept related global and blocked scope w'll study further !
+// this code ran despite not having variable cuz js created property on global object  !!
+
+// lastName = 'Singh';
+// console.log(lastName);
