@@ -269,3 +269,15 @@
 // console.log(typeof null);
 
 
+// let const and var 
+
+// let lets you change or reassign the value in future (mutable variable)
+let age = 30;
+age = 35;
+console.log(age);
+
+// const (also known as constant variable) can't change the value or reassign it in future (immutable variable)
+// also we can't declare empty const variable
+
+const birthYear = 2009;
+birthYear = 2010;
