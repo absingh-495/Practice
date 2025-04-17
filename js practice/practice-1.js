@@ -193,14 +193,61 @@
 
 
 
-let js = 'amazing';
-console.log(js)
-console.log(29-35+42+65);
-let firstName = 'bob'
-console.log(firstName);
+// let js = 'amazing';
+// console.log(js)
+// console.log(29-35+42+65);
+// let firstName = 'bob'
+// console.log(firstName);
 
-let years3 = 'nick'
-console.log(years3);
+// let years3 = 'nick'
+// console.log(years3);
 
+// assignment
 
+// let country = 'India';
+// let continent = 'asia';
+// let population = '2 billion';
+
+// console.log(country);
+// console.log(continent);
+// console.log(population);
+
+//assignment
+
+// let island = false ;
+// const language = 'hindi' ;
+// console.log(typeof island);
+// console.log(typeof population);
+// console.log(typeof country);
+// console.log(typeof language);
+ 
+ 
+// language = 'portuguese';
+// const country = 'Portugal';
+// const continent = 'Europe';
+// const isIsland = false;
+// isIsland = true;
+
+// typeof "John"         // Returns string
+// typeof ("John"+"Doe") // Returns string
+// typeof 3.14           // Returns number
+// typeof 33             // Returns number
+// typeof (33 + 66)      // Returns number
+// typeof true           // Returns boolean
+// typeof false          // Returns boolean
+// typeof 1234n          // Returns bigint
+// typeof Symbol()       // Returns symbol
+// typeof x              // Returns undefined
+ 
+
+let javascriptIsFun = true; //if write "true" like this then it will consider as string not boolean 
+console.log(javascriptIsFun);
+
+// typeof operator
+
+// console.log(typeof 'hello' ); string
+// console.log(typeof true); Boolean
+// console.log(typeof 12345n ); BigInt
+// console.log(typeof 3.14); Number
+// console.log(typeof x ); undefined
 
