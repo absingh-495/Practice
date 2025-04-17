@@ -240,8 +240,8 @@
 // typeof x              // Returns undefined
  
 
-let javascriptIsFun = true; //if write "true" like this then it will consider as string not boolean 
-console.log( typeof javascriptIsFun);
+// let javascriptIsFun = true; //if write "true" like this then it will consider as string not boolean 
+// console.log( typeof javascriptIsFun);
 
 // typeof operator
 
@@ -253,6 +253,19 @@ console.log( typeof javascriptIsFun);
 
 //  dynamic typing = a variable can start as a number, then be reassigned as a string without an error. 
 
-javascriptIsFun = 'yes!';
-console.log(typeof javascriptIsFun);
+// javascriptIsFun = 'yes!';
+// console.log(typeof javascriptIsFun);
+
+// let year;
+// console.log(year);
+// console.log(typeof year);
+
+// year = 2005;
+// console.log(year);
+// console.log(typeof year);
+
+
+// console.log(null);
+// console.log(typeof null);
+
 
