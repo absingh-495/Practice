@@ -241,7 +241,7 @@
  
 
 let javascriptIsFun = true; //if write "true" like this then it will consider as string not boolean 
-console.log(javascriptIsFun);
+console.log( typeof javascriptIsFun);
 
 // typeof operator
 
@@ -250,4 +250,9 @@ console.log(javascriptIsFun);
 // console.log(typeof 12345n ); BigInt
 // console.log(typeof 3.14); Number
 // console.log(typeof x ); undefined
+
+//  dynamic typing = a variable can start as a number, then be reassigned as a string without an error. 
+
+javascriptIsFun = 'yes!';
+console.log(typeof javascriptIsFun);
 
