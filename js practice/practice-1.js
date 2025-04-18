@@ -315,3 +315,16 @@ const firstName = "Abhishek";
 const secondName = "Singh";
 console.log(firstName + ' ' + secondName);
 
+// typeof operator already used
+
+// const x = 10 + 15;
+// console.log(x);
+
+// all Mathematical operators
+
+let x = 10 + 5; // 15
+x += 10; // x = x + 10 = 25
+x *= 4; // x = x * 4 = 100
+x++; // x = x + 1 = 101
+x--; // x = x - 1 = 100
+console.log(x);
