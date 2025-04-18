@@ -297,7 +297,7 @@
 // lastName = 'Singh';
 // console.log(lastName);
 
-// basic operator
+// basic math operator
 
 const currentYear = 2025
 const jonasAge = currentYear - 2002;
@@ -320,7 +320,7 @@ console.log(firstName + ' ' + secondName);
 // const x = 10 + 15;
 // console.log(x);
 
-// all Mathematical operators
+// all Assignment operators
 
 let x = 10 + 5; // 15
 x += 10; // x = x + 10 = 25
