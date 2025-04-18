@@ -301,19 +301,19 @@
 
 const currentYear = 2025
 const jonasAge = currentYear - 2002;
-const jennieAge = currentYear - 2005;
+const jennieAge = currentYear - 2020;
 const williamAge = currentYear - 1998;
 console.log('jonas age is :', jonasAge);
 console.log('jennie age is :',jennieAge );
 console.log('william age is :',williamAge );
 
-console.log(jonasAge * 2 / 10 , 3 ** 3);
+// console.log(jonasAge * 2 / 10 , 3 ** 3);
 
-// concatination of string using + plus operator
+// concatenation of string using + plus operator
 
-const firstName = "Abhishek";
-const secondName = "Singh";
-console.log(firstName + ' ' + secondName);
+// const firstName = "Abhishek";
+// const secondName = "Singh";
+// console.log(firstName + ' ' + secondName);
 
 // typeof operator already used
 
@@ -322,9 +322,15 @@ console.log(firstName + ' ' + secondName);
 
 // all Assignment operators
 
-let x = 10 + 5; // 15
-x += 10; // x = x + 10 = 25
-x *= 4; // x = x * 4 = 100
-x++; // x = x + 1 = 101
-x--; // x = x - 1 = 100
-console.log(x);
+// let x = 10 + 5; // 15
+// x += 10; // x = x + 10 = 25
+// x *= 4; // x = x * 4 = 100
+// x++; // x = x + 1 = 101
+// x--; // x = x - 1 = 100
+// console.log(x);
+
+// comparison operators to produce boolean values
+console.log(jonasAge > jennieAge); // >, >=, <, <= .
+console.log(williamAge >= 18 );
+
+const isFull = jennieAge >= 18;
