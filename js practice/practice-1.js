@@ -273,9 +273,9 @@
 
 // let lets you change or reassign the value in future (mutable variable)
 
-let age = 30;
-age = 35;
-console.log(age);
+// let age = 30;
+// age = 35;
+// console.log(age);
 
 // const (also known as constant variable) can't change the value or reassign it in future (immutable variable)
 
@@ -296,3 +296,16 @@ console.log(age);
 
 // lastName = 'Singh';
 // console.log(lastName);
+
+// basic operator
+
+const currentYear = 2025
+const jonasAge = currentYear - 2002;
+const jennieAge = currentYear - 2005;
+const williamAge = currentYear - 1998;
+console.log('jonas age is :', jonasAge);
+console.log('jennie age is :',jennieAge );
+console.log('william age is :',williamAge );
+
+console.log(jonasAge * 2 / 10 , 3 ** 3);
+
