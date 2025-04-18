@@ -309,8 +309,9 @@ console.log('william age is :',williamAge );
 
 console.log(jonasAge * 2 / 10 , 3 ** 3);
 
+// concatination of string using + plus operator
+
 const firstName = "Abhishek";
 const secondName = "Singh";
-const gap = '';
-console.log(firstName + '' + secondName);
+console.log(firstName + ' ' + secondName);
 
