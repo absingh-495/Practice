@@ -340,13 +340,24 @@
 // const isFull = jennieAge >= 18;
 // console.log(25 - 10 - 5);
 
-const firstName = 'jonas';
-const job = 'teacher';
-const birthYear = 1991;
-const year = 2037;
 
-const jonas = " i am " + firstName + ', a ' + (year - birthYear ) + ' years old ' + job + '! ';
-console.log(jonas);
+// template literals / template strings 
 
-const jonasNew = `i'm ${firstName}, a ${year - birthYear} year old ${job}! `
-console.log(jonasNew)
+// const firstName = 'jonas';
+// const job = 'teacher';
+// const birthYear = 1991;
+// const year = 2037;
+
+// const jonas = " i am " + firstName + ', a ' + (year - birthYear ) + ' years old ' + job + '! ';
+// console.log(jonas);
+
+// const jonasNew = `i'm ${firstName}, a ${year - birthYear} year old ${job}! `
+// console.log(jonasNew)
+
+const age = 19;
+// const isOldEnough = age >=18;
+
+// if(isOldEnough)
+ if(age >= 19){
+  console.log('sarah can start driving license 🚗');
+}
