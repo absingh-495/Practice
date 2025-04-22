@@ -354,7 +354,10 @@
 // const jonasNew = `i'm ${firstName}, a ${year - birthYear} year old ${job}! `
 // console.log(jonasNew)
 
-const age = 5;
+
+// if else 
+
+const age = 15;
 // const isOldEnough = age >=18;
 
 // if(isOldEnough)
@@ -365,5 +368,5 @@ const age = 5;
 else{
   // console.log("fuck you're not old enough to drive😒");
   const yearLeft = 18 - age;
-  console.log(`sarah is too young wait another ${yearLeft} years`)
+  console.log(`sarah is too young wait another : ${yearLeft} years`)
 }
