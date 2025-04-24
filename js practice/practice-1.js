@@ -400,3 +400,6 @@
  n = n - 1;
  console.log(n)
 //  output 10 because '1' + 1  (+ sign ) after that n = '11' next line n = n - 1 ; (- sign) after that string converted in number cuz - sign then 11-1 = 10
+// e.g 2+3+4'5' = 9 + '5' = 95
+// e.g '10' - '4' - '3'-2 + '5' = 
+// 6-3 = '3' - 2 = 1 + '5' = 15 
