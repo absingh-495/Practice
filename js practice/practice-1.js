@@ -382,5 +382,15 @@
 
 // type conversion coercion
 
-const inputYear = '1991'
-// console.log(typeof inputYear)
+const inputYear = '1991';
+console.log(Number(inputYear));
+console.log(Number(inputYear) + 18);
+
+ // console.log(typeof inputYear)
+
+ console.log(Number('john')); // output NaN = not a number.
+ console.log(typeof NaN); // typeof is number which technically invalid number
+  
+ let numberTostring = 28; ;
+ console.log(String(numberTostring));
+ console.log(typeof numberTostring);
