@@ -391,6 +391,6 @@ console.log(Number(inputYear) + 18);
  console.log(Number('john')); // output NaN = not a number.
  console.log(typeof NaN); // typeof is number which technically invalid number
   
- let numberTostring = 28; ;
- console.log(String(numberTostring));
+ let numberTostring = (28) ;
+ console.log(String(numberTostring),28);
  console.log(typeof numberTostring);
