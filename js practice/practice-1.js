@@ -371,11 +371,16 @@
 //   console.log(`sarah is too young wait another : ${yearLeft} years`)
 // }
 
-const birthYear = 1991;
-let century
-if(birthYear <= 2000){
-    century = 20;
-}else{
-    century = 21;
-}
-console.log(century)
+// const birthYear = 1991;
+// let century
+// if(birthYear <= 2000){
+//     century = 20;
+// }else{
+//     century = 21;
+// }
+// console.log(century)
+
+// type conversion coercion
+
+const inputYear = '1991'
+// console.log(typeof inputYear)
