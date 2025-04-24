@@ -382,15 +382,21 @@
 
 // type conversion coercion
 
-const inputYear = '1991';
-console.log(Number(inputYear));
-console.log(Number(inputYear) + 18);
+// const inputYear = '1991';
+// console.log(Number(inputYear));
+// console.log(Number(inputYear) + 18);
 
- // console.log(typeof inputYear)
+//  // console.log(typeof inputYear)
 
- console.log(Number('john')); // output NaN = not a number.
- console.log(typeof NaN); // typeof is number which technically invalid number
+//  console.log(Number('john')); // output NaN = not a number.
+//  console.log(typeof NaN); // typeof is number which technically invalid number
   
- let numberTostring = (28) ;
- console.log(String(numberTostring),28);
- console.log(typeof numberTostring);
+//  let numberTostring = (28) ;
+//  console.log(String(numberTostring),28);
+//  console.log(typeof numberTostring);
+
+// type coercion
+ let n = '1' + 1;
+ n = n - 1;
+ console.log(n)
+//  output 10 because '1' + 1 concetinate 11 after that n = '11' next line n = n - 1 ; after that string converted in number cuz - sign then 11-1 = 10
