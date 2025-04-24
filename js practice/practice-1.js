@@ -399,4 +399,4 @@
  let n = '1' + 1;
  n = n - 1;
  console.log(n)
-//  output 10 because '1' + 1 concetinate 11 after that n = '11' next line n = n - 1 ; after that string converted in number cuz - sign then 11-1 = 10
+//  output 10 because '1' + 1  (+ sign ) after that n = '11' next line n = n - 1 ; (- sign) after that string converted in number cuz - sign then 11-1 = 10
