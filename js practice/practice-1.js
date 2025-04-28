@@ -414,5 +414,12 @@ const money = 0;
 if(money){
   console.log("don't spend it all");
 }else{
-  consol.log("you should get a job");
+  console.log("you should get a job");
 }
+
+let height;
+if(height){
+  console("YAY! height is defined")
+}else(
+  console("it's not defined you dumb fuck !")
+)
