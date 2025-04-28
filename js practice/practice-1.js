@@ -405,3 +405,14 @@
 // 6-3 = '3' - 2 = 1 + '5' = 15
 
 // 5 falsy values '', 0, undefined, NaN , false 
+console.log(Boolean(0));
+console.log(Boolean( undefined));
+console.log(Boolean('jonas'));
+console.log(Boolean({}));
+ 
+const money = 0;
+if(money){
+  console.log("don't spend it all");
+}else{
+  consol.log("you should get a job");
+}
