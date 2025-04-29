@@ -439,4 +439,10 @@ if(favourite == 69){                             //'69'
 
 if(favourite === 69){                           // 69
   console.log("dude! i got'ch you.")
+} 
+else if(favourite === 7)
+  {                           // 69
+  console.log("thala for a reason !")
+}else{
+  console.log("it's neither 69 or 7 !")
 }
