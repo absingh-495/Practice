@@ -426,4 +426,6 @@
 
 // equality operator
 const age = 18;
-if(age === 18) console.log("u just became an adult");
+if(age === 18) console.log("u just became an adult(strict");
+ 
+if(age == 18) console.log("u just became an adult(loose)");
