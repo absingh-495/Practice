@@ -396,9 +396,9 @@
 //  console.log(typeof numberTostring);
 
 // type coercion
- let n = '1' + 1;
- n = n - 1;
- console.log(n)
+//  let n = '1' + 1;
+//  n = n - 1;
+//  console.log(n)
 //  output 10 because '1' + 1  (+ sign ) after that n = '11' next line n = n - 1 ; (- sign) after that string converted in number cuz - sign then 11-1 = 10
 // e.g 2+3+4'5' = 9 + '5' = 95
 // e.g '10' - '4' - '3'-2 + '5' = 
@@ -423,3 +423,7 @@
 // }else(
 //   console("it's not defined you dumb fuck !")
 // )
+
+// equality operator
+const age = 18;
+if(age === 18) console.log("u just became an adult");
