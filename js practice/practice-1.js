@@ -425,18 +425,18 @@
 // )
 
 // equality operator
-const age = 18;
-if(age === 18) console.log("u just became an adult(strict)");
+// const age = 18;
+// if(age === 18) console.log("u just became an adult(strict)");
  
-if(age == 18) console.log("u just became an adult(loose)");
+// if(age == 18) console.log("u just became an adult(loose)");
 
-const favourite = prompt("what's your favourite number ?");
+const favourite = Number(prompt("what's your favourite number ?")); // converting string '69' to number 69
 console.log(favourite);
 
-if(favourite == 69){
+if(favourite == 69){                             //'69'
   console.log("dude! i got'ch you.")
 }
 
-if(favourite === 69){
+if(favourite === 69){                           // 69
   console.log("dude! i got'ch you.")
 }
