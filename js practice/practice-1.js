@@ -454,7 +454,10 @@
 
 // Boolean logic
 
+const hasDriverLic = true; //A
+const hasGoodVis =  false; //B
 
+console.log(hasDriverLic && hasGoodVis)
 
 
 
