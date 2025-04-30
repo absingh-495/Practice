@@ -456,16 +456,28 @@
 
 const hasDriverLic = true; //A
 const hasGoodVis =  false; //B
+const isTired = true; //c
 
-console.log(hasDriverLic && hasGoodVis); // AND
-console.log(hasDriverLic || hasGoodVis);//OR
-console.log(hasDriverLic );//NOT
+// console.log(hasDriverLic && hasGoodVis); // AND
+// console.log(hasDriverLic || hasGoodVis);//OR
+// console.log(hasDriverLic );//NOT
 
- if( hasDriverLic && hasGoodVis){
+//  if( hasDriverLic && hasGoodVis){
+//   console.log("shara is able to drive !")
+// }else{
+//   console.log("someone else should drive....");
+// }
+
+
+console.log( hasDriverLic && hasGoodVis && isTired);
+
+if( hasDriverLic && hasGoodVis && !isTired){
   console.log("shara is able to drive !")
 }else{
   console.log("someone else should drive....");
 }
+
+
 
 
 
