@@ -455,8 +455,8 @@
 // Boolean logic
 
 const hasDriverLic = true; //A
-const hasGoodVis =  false; //B
-const isTired = true; //c
+const hasGoodVis =  true; //B
+const isTired = false; //c
 
 // console.log(hasDriverLic && hasGoodVis); // AND
 // console.log(hasDriverLic || hasGoodVis);//OR
