@@ -430,24 +430,55 @@
  
 // if(age == 18) console.log("u just became an adult(loose)");
 
-const favourite = Number(prompt("what's your favourite number ?")); // converting string '69' to number 69
-console.log(favourite);
+// const favourite = Number(prompt("what's your favourite number ?")); // converting string '69' to number 69
+// console.log(favourite);
 
-if(favourite == 69){                             //'69'
-  console.log("dude! i got'ch you.")
-}
+// if(favourite == 69){                             //'69'
+//   console.log("dude! i got'ch you.")
+// }
 
-if(favourite === 69){                           // 69
-  console.log("dude! i got'ch you.")
-} 
-else if(favourite === 7)
-  {                            
-  console.log("thala for a reason !")
-}
-else if(favourite === 66)
-  {                           
-  console.log("Nala for a reason !")
-}
-else{
-  console.log("it's neither 69 or 7 or 66 !")
-}
+// if(favourite === 69){                           // 69
+//   console.log("dude! i got'ch you.")
+// } 
+// else if(favourite === 7)
+//   {                            
+//   console.log("thala for a reason !")
+// }
+// else if(favourite === 66)
+//   {                           
+//   console.log("Nala for a reason !")
+// }
+// else{
+//   console.log("it's neither 69 or 7 or 66 !")
+// }
+
+// Boolean logic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
