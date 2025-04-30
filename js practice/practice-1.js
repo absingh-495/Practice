@@ -457,7 +457,11 @@
 const hasDriverLic = true; //A
 const hasGoodVis =  false; //B
 
-console.log(hasDriverLic && hasGoodVis)
+console.log(hasDriverLic && hasGoodVis); // AND
+console.log(hasDriverLic || hasGoodVis);//OR
+console.log(hasDriverLic );//NOT
+
+
 
 
 
