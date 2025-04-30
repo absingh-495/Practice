@@ -461,6 +461,13 @@ console.log(hasDriverLic && hasGoodVis); // AND
 console.log(hasDriverLic || hasGoodVis);//OR
 console.log(hasDriverLic );//NOT
 
+const shouldDrive = hasDriverLic && hasGoodVis;
+if(shouldDrive){
+  console.log("shara is able to drive !")
+}else{
+  console.log("someone else should drive....");
+}
+
 
 
 
