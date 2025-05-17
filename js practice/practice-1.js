@@ -494,8 +494,8 @@ const isTired = false; //c
 
 // bonus
 
-const scoreDolphins = ( 97 + 112 +  81) /3
-const scoreKolas = ( 109 + 95 + 86) /3
+const scoreDolphins = ( 97 + 112 +  101) /3
+const scoreKolas = ( 109 + 95 + 106) /3
 console.log(scoreDolphins, scoreKolas);
 
 if(scoreDolphins > scoreKolas && scoreDolphins >= 100){
@@ -505,7 +505,7 @@ if(scoreDolphins > scoreKolas && scoreDolphins >= 100){
  } else if(scoreDolphins === scoreKolas && scoreDolphins >= 100 && scoreKolas >= scoreKolas){
       console.log('both wins the trophy! ');
  }else{
-  console.log('no ones win the trophy')
+  console.log('no one win the trophy')
  }
 
 
