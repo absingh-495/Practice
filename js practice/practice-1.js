@@ -477,6 +477,12 @@ const isTired = false; //c
 //   console.log("someone else should drive....");
 // }
 
+// 3rd project solution
+
+const scoreDolphins = (96 + 108 + 89) /3
+const scoreKolas = ( 88 + 91 + 110 ) /3
+console.log(scoreDolphins, scoreKolas);
+
 
 
 
