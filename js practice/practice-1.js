@@ -486,8 +486,9 @@ console.log(scoreDolphins, scoreKolas);
 if(scoreDolphins > scoreKolas){
   console.log('Dolphins win ');
 }else if (scoreKolas > scoreDolphins){
-  console.log(scoreDolphins, scoreKolas);
-}
+    console.log('kolas win ');
+
+ }
 
 
 
