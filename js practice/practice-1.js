@@ -480,14 +480,17 @@ const isTired = false; //c
 // 3rd project solution
 
 const scoreDolphins = (96 + 108 + 89) /3
-const scoreKolas = ( 88 + 91 + 110 ) /3
+const scoreKolas = (96 + 108 + 89) /3
+
+// const scoreKolas = ( 88 + 91 + 110 ) /3
 console.log(scoreDolphins, scoreKolas);
 
 if(scoreDolphins > scoreKolas){
   console.log('Dolphins win ');
 }else if (scoreKolas > scoreDolphins){
     console.log('kolas win ');
-
+ } else if(scoreDolphins === scoreKolas){
+      console.log('both wins the trophy! ');
  }
 
 
