@@ -469,13 +469,13 @@ const isTired = false; //c
 // }
 
 
-console.log( hasDriverLic && hasGoodVis && isTired);
+// console.log( hasDriverLic && hasGoodVis && isTired);
 
-if( hasDriverLic && hasGoodVis && !isTired){
-  console.log("shara is able to drive !")
-}else{
-  console.log("someone else should drive....");
-}
+// if( hasDriverLic && hasGoodVis && !isTired){
+//   console.log("shara is able to drive !")
+// }else{
+//   console.log("someone else should drive....");
+// }
 
 
 
