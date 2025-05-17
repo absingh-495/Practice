@@ -483,6 +483,12 @@ const scoreDolphins = (96 + 108 + 89) /3
 const scoreKolas = ( 88 + 91 + 110 ) /3
 console.log(scoreDolphins, scoreKolas);
 
+if(scoreDolphins > scoreKolas){
+  console.log('Dolphins win ');
+}else if (scoreKolas > scoreDolphins){
+  console.log(scoreDolphins, scoreKolas);
+}
+
 
 
 
