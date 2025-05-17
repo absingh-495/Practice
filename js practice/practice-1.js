@@ -479,18 +479,32 @@ const isTired = false; //c
 
 // 3rd project solution
 
-const scoreDolphins = (96 + 108 + 89) /3
-const scoreKolas = ( 88 + 91 + 110 ) /3
+// const scoreDolphins = (96 + 108 + 89) /3
+// const scoreKolas = ( 88 + 91 + 110 ) /3
+// console.log(scoreDolphins, scoreKolas);
+
+// if(scoreDolphins > scoreKolas){
+//   console.log('Dolphins win ');
+// }else if (scoreKolas > scoreDolphins){
+//     console.log('kolas win ');
+//  } else if(scoreDolphins === scoreKolas){
+//       console.log('both wins the trophy! ');
+//  }
+
+
+// bonus
+
+const scoreDolphins = ( 97 + 112 +  81) /3
+const scoreKolas = ( 109 + 95 + 86) /3
 console.log(scoreDolphins, scoreKolas);
 
-if(scoreDolphins > scoreKolas){
+if(scoreDolphins > scoreKolas && scoreDolphins >= 100){
   console.log('Dolphins win ');
-}else if (scoreKolas > scoreDolphins){
+}else if (scoreKolas > scoreDolphins && scoreKolas >= 100){
     console.log('kolas win ');
  } else if(scoreDolphins === scoreKolas){
       console.log('both wins the trophy! ');
  }
-
 
 
 
