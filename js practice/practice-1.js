@@ -502,8 +502,10 @@ if(scoreDolphins > scoreKolas && scoreDolphins >= 100){
   console.log('Dolphins win ');
 }else if (scoreKolas > scoreDolphins && scoreKolas >= 100){
     console.log('kolas win ');
- } else if(scoreDolphins === scoreKolas){
+ } else if(scoreDolphins === scoreKolas && scoreDolphins >= 100 && scoreKolas >= scoreKolas){
       console.log('both wins the trophy! ');
+ }else{
+  console.log('no ones win the trophy')
  }
 
 
