@@ -494,8 +494,8 @@ const isTired = false; //c
 
 // bonus
 
-const scoreDolphins = ( 97 + 112 +  101) /3
-const scoreKolas = ( 109 + 95 + 106) /3
+const scoreDolphins = ( 97 + 112 +  106) /3
+const scoreKolas = ( 109 + 95 + 101) /3
 console.log(scoreDolphins, scoreKolas);
 
 if(scoreDolphins > scoreKolas && scoreDolphins >= 100){
