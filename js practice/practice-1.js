@@ -533,9 +533,9 @@ switch(day){
   case 'saturday':
   case 'sunday':
   console.log('enjoy the god damnn! weekend')
-
-
-
+  
+  default:
+  console.log('not a valid day')
 
 }
 
