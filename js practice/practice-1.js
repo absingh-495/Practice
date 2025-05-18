@@ -509,9 +509,9 @@ const { createContext } = require("react");
 //  }else{
 //   console.log('no one win the trophy')
 //  }
-
 // switch statement
-const day = 'monday';
+
+const day = 'wednesday';
 
 switch(day){
   case 'monday' : // day === monday
@@ -526,13 +526,18 @@ switch(day){
   case 'wednesday' :
   case 'thursday' :
   console.log('write code examples')
+  break;
 
   case 'friday':
   console.log('Record videos')
+  break;
+
 
   case 'saturday':
   case 'sunday':
   console.log('enjoy the god damnn! weekend')
+  break;
+
   
   default:
   console.log('not a valid day')
