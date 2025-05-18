@@ -511,7 +511,7 @@ const { createContext } = require("react");
 //  }
 // switch statement
 
-const day = 'wednesday';
+const day = 'monday';
 
 switch(day){
   case 'monday' : // day === monday
