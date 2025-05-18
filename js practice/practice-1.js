@@ -1,5 +1,7 @@
 // dialog boxes in javascript
 
+const { createContext } = require("react");
+
 // alert ("hello")
 // const isconfirmed = confirm("are sure u want to proceed ?")
 // // const userInput = prompt ("please enter your name ")
@@ -508,8 +510,34 @@
 //   console.log('no one win the trophy')
 //  }
 
+// switch statement
+const day = 'monday';
+
+switch(day){
+  case 'monday' : // day === monday
+  console.log('plan course structure');
+  console.log(' go to coding meetup ');
+  break;
+
+  case 'tuesday':
+  console.log(' prepare theory videos ');
+  break;
+
+  case 'wednesday' :
+  case 'thursday' :
+  console.log('write code examples')
+
+  case 'friday':
+  console.log('Record videos')
+
+  case 'saturday':
+  case 'sunday':
+  console.log('enjoy the god damnn! weekend')
 
 
+
+
+}
 
 
 
