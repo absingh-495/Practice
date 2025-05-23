@@ -495,18 +495,18 @@
 
 // conditional statement 
 
-const productInStock = 0;
-if(productInStock <= 0 ){
-  console.log('product is out of stock');
-}else{
-  console.log('product is in stock');
-}
+// const productInStock = 0;
+// if(productInStock <= 0 ){
+//   console.log('product is out of stock');
+// }else{
+//   console.log('product is in stock');
+// }
 
-let weather = 'rainy';
-if(weather === 'rainy')
-  {
-  console.log('take an umbrella with you');
-}
-else{
-  console.log('enjoy the sunshine ');
-}
+// let weather = 'rainy';
+// if(weather === 'rainy')
+//   {
+//   console.log('take an umbrella with you');
+// }
+// else{
+//   console.log('enjoy the sunshine ');
+// }
