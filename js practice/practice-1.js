@@ -560,14 +560,29 @@
 
 // user authentication 
 
-let userName = 'admin'
-let password = '@system'
+// let userName = 'admin'
+// let password = '@system'
 
-let dbuserName = 'admin'
-let dbpassword = '@system'
+// let dbuserName = 'admin'
+// let dbpassword = '@system'
 
-if(userName===dbuserName && password===dbpassword){
-  console.log("successfully logged in !");
-}else{
-  console.log("Invalid username or password !");
+// if(userName===dbuserName && password===dbpassword){
+//   console.log("successfully logged in !");
+// }else{
+//   console.log("Invalid username or password !");
+// }
+
+let color = "red"
+switch(color){
+  case "red":
+    console.log("stop")
+    break;
+  case "yellow":
+      console.log("Caution")
+      break;
+  case "green":
+    console.log("Go!")
+    break;
+    default : ("fuck off nigga")
+    
 }
