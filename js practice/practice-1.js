@@ -1,6 +1,6 @@
 // dialog boxes in javascript
 
-const { createContext } = require("react");
+ 
 
 // alert ("hello")
 // const isconfirmed = confirm("are sure u want to proceed ?")
@@ -495,78 +495,4 @@ const { createContext } = require("react");
 
 
 // bonus
-
-// const scoreDolphins = ( 97 + 112 +  106) /3
-// const scoreKolas = ( 109 + 95 + 101) /3
-// console.log(scoreDolphins, scoreKolas);
-
-// if(scoreDolphins > scoreKolas && scoreDolphins >= 100){
-//   console.log('Dolphins win ');
-// }else if (scoreKolas > scoreDolphins && scoreKolas >= 100){
-//     console.log('kolas win ');
-//  } else if(scoreDolphins === scoreKolas && scoreDolphins >= 100 && scoreKolas >= scoreKolas){
-//       console.log('both wins the trophy! ');
-//  }else{
-//   console.log('no one win the trophy')
-//  }
-// switch statement
-
-// const day = 'monday';
-
-// switch(day){
-//   case 'monday' : // day === monday
-//   console.log('plan course structure');
-//   console.log(' go to coding meetup ');
-//   break;
-
-//   case 'tuesday':
-//   console.log(' prepare theory videos ');
-//   break;
-
-//   case 'wednesday' :
-//   case 'thursday' :
-//   console.log('write code examples')
-//   break;
-
-//   case 'friday':
-//   console.log('Record videos')
-//   break;
-
-
-//   case 'saturday':
-//   case 'sunday':
-//   console.log('enjoy the god damnn! weekend')
-//   break;
-
-  
-//   default:
-//   console.log('not a valid day')
-
-// }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
