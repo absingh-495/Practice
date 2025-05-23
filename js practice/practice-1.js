@@ -507,6 +507,14 @@
 //   {
 //   console.log('take an umbrella with you');
 // }
-// else{
+// else{  
 //   console.log('enjoy the sunshine ');
 // }
+
+let canDrive = 20;
+if(canDrive >= 18){
+  console.log('you can drive, have a good day!');
+}
+else{
+  console.log('sorry, you can not drive.');
+}
