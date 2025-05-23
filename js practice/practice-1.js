@@ -511,10 +511,19 @@
 //   console.log('enjoy the sunshine ');
 // }
 
-let canDrive = 20;
-if(canDrive >= 18){
-  console.log('you can drive, have a good day!');
+// let canDrive = 20;
+// if(canDrive >= 18){
+//   console.log('you can drive, have a good day!');
+// }
+// else{
+//   console.log('sorry, you can not drive.');
+// }
+
+const temperature = 30;
+if(temperature >= 30)
+{
+  console.log('it is too hot');
 }
 else{
-  console.log('sorry, you can not drive.');
+  console.log('enjoy the weather');
 }
