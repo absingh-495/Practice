@@ -511,38 +511,38 @@ const { createContext } = require("react");
 //  }
 // switch statement
 
-const day = 'monday';
+// const day = 'monday';
 
-switch(day){
-  case 'monday' : // day === monday
-  console.log('plan course structure');
-  console.log(' go to coding meetup ');
-  break;
+// switch(day){
+//   case 'monday' : // day === monday
+//   console.log('plan course structure');
+//   console.log(' go to coding meetup ');
+//   break;
 
-  case 'tuesday':
-  console.log(' prepare theory videos ');
-  break;
+//   case 'tuesday':
+//   console.log(' prepare theory videos ');
+//   break;
 
-  case 'wednesday' :
-  case 'thursday' :
-  console.log('write code examples')
-  break;
+//   case 'wednesday' :
+//   case 'thursday' :
+//   console.log('write code examples')
+//   break;
 
-  case 'friday':
-  console.log('Record videos')
-  break;
+//   case 'friday':
+//   console.log('Record videos')
+//   break;
 
 
-  case 'saturday':
-  case 'sunday':
-  console.log('enjoy the god damnn! weekend')
-  break;
+//   case 'saturday':
+//   case 'sunday':
+//   console.log('enjoy the god damnn! weekend')
+//   break;
 
   
-  default:
-  console.log('not a valid day')
+//   default:
+//   console.log('not a valid day')
 
-}
+// }
 
 
 
