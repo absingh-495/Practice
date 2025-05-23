@@ -572,18 +572,18 @@
 //   console.log("Invalid username or password !");
 // }
 
-let color = "green"
-switch(color){
-  case "red":
-    console.log("stop")
-    break;
-  case "yellow":
-      console.log("Caution")
-      break;
-  case "green":
-    console.log("Go!")
-    break;
-    default :
-    console.log("Invalid input")
+// let color = "green"
+// switch(color){
+//   case "red":
+//     console.log("stop")
+//     break;
+//   case "yellow":
+//       console.log("Caution")
+//       break;
+//   case "green":
+//     console.log("Go!")
+//     break;
+//     default :
+//     console.log("Invalid input")
 
-}
+// }
