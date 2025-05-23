@@ -501,4 +501,12 @@ if(productInStock <= 0 ){
 }else{
   console.log('product is in stock');
 }
- 
+
+let weather = 'rainy';
+if(weather === 'rainy')
+  {
+  console.log('take an umbrella with you');
+}
+else{
+  console.log('enjoy the sunshine ');
+}
