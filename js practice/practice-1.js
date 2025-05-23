@@ -519,11 +519,11 @@
 //   console.log('sorry, you can not drive.');
 // }
 
-const temperature = 30;
-if(temperature >= 30)
-{
-  console.log('it is too hot');
-}
-else{
-  console.log('enjoy the weather');
-}
+// const temperature = 30;
+// if(temperature >= 30)
+// {
+//   console.log('it is too hot');
+// }
+// else{
+//   console.log('enjoy the weather');
+// }
