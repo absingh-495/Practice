@@ -543,17 +543,31 @@
 //   console.log('You need to study more');
 // } 
 
-let age = 19;
-let hasId = true;
-if(age >= 18){
-  if(hasId){
-    console.log('Id scanned & You are allowed');
-  }else{
-    console.log('you need Id');
-  }
-  }
-  else{
-    console.log('Sorry, You are not allowed ');
-  }
+//nested if else example
 
+// let age = 19;
+// let hasId = true;
+// if(age >= 18){
+//   if(hasId){
+//     console.log('Id scanned & You are allowed');
+//   }else{
+//     console.log('you need Id');
+//   }
+//   }
+//   else{
+//     console.log('Sorry, You are not allowed ');
+//   }
 
+// user authentication 
+
+let userName = 'admin'
+let password = '@system'
+
+let dbuserName = 'admin'
+let dbpassword = '@system'
+
+if(userName && password && userName===dbuserName && password===dbpassword){
+  console.log("successfully logged in !");
+}else{
+  console.log("Access denied !");
+}
