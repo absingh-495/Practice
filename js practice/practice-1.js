@@ -543,15 +543,17 @@
 //   console.log('You need to study more');
 // } 
 
-// let age = 18;
-// let hasId = true;
-// if(age >= 18){
-//   if(hasId){
-//     console.log('Id scanned & You are allowed');
-//   }else{
-//     console.log('you need Id');
-//   }
-//   else{
-//     console.log('Sorry, You are not allowed');
-//   }
-// }
+let age = 19;
+let hasId = true;
+if(age >= 18){
+  if(hasId){
+    console.log('Id scanned & You are allowed');
+  }else{
+    console.log('you need Id');
+  }
+  }
+  else{
+    console.log('Sorry, You are not allowed ');
+  }
+
+
