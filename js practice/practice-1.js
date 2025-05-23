@@ -566,7 +566,7 @@ let password = '@system'
 let dbuserName = 'admin'
 let dbpassword = '@system'
 
-if(userName && password && userName===dbuserName && password===dbpassword){
+if(userName===dbuserName && password===dbpassword){
   console.log("successfully logged in !");
 }else{
   console.log("Access denied !");
