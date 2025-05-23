@@ -572,7 +572,7 @@
 //   console.log("Invalid username or password !");
 // }
 
-let color = "red"
+let color = "green"
 switch(color){
   case "red":
     console.log("stop")
@@ -583,6 +583,7 @@ switch(color){
   case "green":
     console.log("Go!")
     break;
-    default : ("fuck off nigga")
-    
+    default :
+    console.log("Invalid input")
+
 }
