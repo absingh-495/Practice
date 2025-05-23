@@ -569,5 +569,5 @@ let dbpassword = '@system'
 if(userName===dbuserName && password===dbpassword){
   console.log("successfully logged in !");
 }else{
-  console.log("Access denied !");
+  console.log("Invalid username or password !");
 }
