@@ -493,6 +493,12 @@
 //       console.log('both wins the trophy! ');
 //  }
 
+// conditional statement 
 
-// bonus
+const productInStock = 0;
+if(productInStock <= 0 ){
+  console.log('product is out of stock');
+}else{
+  console.log('product is in stock');
+}
  
