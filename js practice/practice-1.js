@@ -530,7 +530,7 @@
 
 //grade calculator
 
-const grade = 90;
+const grade = 80;
 if(grade >= 90){
   console.log('Grade A');
 }else if (grade >= 80){
@@ -539,8 +539,6 @@ if(grade >= 90){
   console.log('Grade C');
 }else if (grade >= 60){
   console.log('Grade D');
-}else if(grade >= 50){
-  console.log('Grade E');
-}else if (grade <= 32){
-  console.log('Failed');
-}
+}else{
+  console.log('You need to study more');
+} 
