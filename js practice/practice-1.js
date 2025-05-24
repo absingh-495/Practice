@@ -615,3 +615,9 @@
 // console.log(result);
 
 // challenge-1
+let cartValue = 30;
+let discountedCartValue;
+if(cartValue < 50){
+  discountedCartValue = cartValue;
+  console.log(" No discount applied");
+}
