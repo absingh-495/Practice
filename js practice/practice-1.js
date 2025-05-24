@@ -613,3 +613,5 @@
 // result = (jaiMarks >= viruMarks ? "jai is madhar bhagat" : "viru is madhar bhagat");
 
 // console.log(result);
+
+// challenge-1
