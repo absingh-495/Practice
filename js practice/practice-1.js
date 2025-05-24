@@ -596,6 +596,7 @@
  
 // ternary operator
 // condition ? exprIfTrue : exprIfFalse
-
-let result  = age >=28?"u can drive": "u can't drive";
+// let age =22;
+// let result  = age  >=18 ? "u can drive": "u can't drive";
+// console.log(result);
 
