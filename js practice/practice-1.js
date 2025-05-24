@@ -597,3 +597,5 @@
 // ternary operator
 // condition ? exprIfTrue : exprIfFalse
 
+let result  = age >=28?"u can drive": "u can't drive";
+
