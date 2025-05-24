@@ -600,3 +600,16 @@
 // let result  = age  >=18 ? "u can drive": "u can't drive";
 // console.log(result);
 
+// let jaiMarks = 22;
+// let viruMarks = 50;
+// let result ;
+ 
+// if(jaiMarks >= viruMarks){
+//   console.log("jai is topper");
+// }else{
+//   console.log("viru is topper");
+// }
+
+// result = (jaiMarks >= viruMarks ? "jai is madhar bhagat" : "viru is madhar bhagat");
+
+// console.log(result);
