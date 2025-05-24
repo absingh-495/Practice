@@ -615,9 +615,18 @@
 // console.log(result);
 
 // challenge-1
-let cartValue = 30;
+let cartValue = 80;
 let discountedCartValue;
 if(cartValue < 50){
   discountedCartValue = cartValue;
   console.log(" No discount applied");
 }
+else if (cartValue < 100){
+  discountedCartValue = cartValue - (cartValue * 10/100);
+  console.log("10% discount is applied");
+}else{
+   discountedCartValue = cartValue - (cartValue * 20/100);
+   console.log("20% discount applied");
+}
+
+console.log("Your final cartvalue is", discountedCartValue);
