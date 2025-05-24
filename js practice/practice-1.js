@@ -587,3 +587,12 @@
 //     console.log("Invalid input")
 
 // }
+
+const greeting =(person) => {
+  const name = person ? person.name : "stranger";
+  return `howdy, ${name}`
+};
+
+// ternary operator
+// condition ? exprIfTrue : exprIfFalse
+
